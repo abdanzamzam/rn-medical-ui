@@ -1,5 +1,5 @@
 # rn-medical-ui
-rn-medical-ui
+React Native Medical UI Open Source. FREE
 
 Preview:
 
